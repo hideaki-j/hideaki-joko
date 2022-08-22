@@ -17,8 +17,8 @@ social:
     display:
       header: false
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Radboud University
+    url: ""
 education:
   courses:
     - course: PhD, Data Science
